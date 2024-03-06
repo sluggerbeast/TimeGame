@@ -1,2 +1,2 @@
 ## Simple Time game
-checkout demo at pareek1.netlify.com
+checkout demo at https://pareek1.netlify.app/
